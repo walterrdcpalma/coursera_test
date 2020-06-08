@@ -6,6 +6,9 @@
 	width: 100%;
 }
 
+p{
+	color: blue;
+}
 
 @media (min-width: 992px){
 
